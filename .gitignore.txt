@@ -1,0 +1,4 @@
+*.py
+*.egg
+.vscode/
+.DS_Store
